@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboob-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="mehboob-hussain" /> </p>
 
-- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs TailwindCSS PERNStack**
+- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs, TailwindCSS PERNStack**
 
-- 💬 Ask me about **PERN stack,React,Nextjs ,Tailwind CSS Web2.0**
+- 💬 Ask me about **PERN stack,React,Nextjs ,Tailwind CSS, Web2.0**
 
 - 📫 How to reach me **mehbobhussain19@gmail.com**
 
