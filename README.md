@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mehboob Hussain</h1>
 <!-- [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)] -->
-<h3 align="center">A passionate Seeker , Curious learner & aspiring PERN Stack web 2.0 developer</h3>
+<h3 align="center">A passionate Seeker , Curious learner & Driven Frontend Developer</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboob-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="mehboob-hussain" /> </p>
 
-- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs, TailwindCSS PERNStack**
+- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs, TailwindCSS ,TypeScript**
 
-- 💬 Ask me about **PERN stack,React,Nextjs ,Tailwind CSS, Web2.0**
+- 💬 Ask me about **JavaScript,React,Nextjs ,Tailwind CSS,TypeScript, Web2.0**
 
 - 📫 How to reach me **mehbobhussain19@gmail.com**
 
