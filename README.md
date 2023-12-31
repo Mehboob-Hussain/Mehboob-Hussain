@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboob-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="mehboob-hussain" /> </p>
 
-- 🌱 I’m currently learning **React,NextJs, POstgresql,Nodejs, TailwindCSS ,TypeScript**
+- 🌱 I am actively expertizing in  ** Javascript ,React,NextJs,  TailwindCSS ,TypeScript , UI/UX ,POstgresql,Nodejs,**
 
 - 💬 Ask me about **JavaScript,React,Nextjs ,Tailwind CSS,TypeScript, Web2.0**
 
