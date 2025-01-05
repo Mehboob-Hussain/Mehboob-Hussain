@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboob-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="mehboob-hussain" /> </p>
 
-- 🌱 I am actively expertizing in  ** Javascript ,React,NextJs,  TailwindCSS ,TypeScript , UI/UX ,POstgresql,Nodejs,**
+- 🌱 I am actively expertizing in  ** Frontend Development, Javascript ,React, NextJs,  TailwindCSS ,TypeScript , UI/UX,**
 
 - 💬 Ask me about **JavaScript,React,Nextjs ,Tailwind CSS,TypeScript, Web2.0**
 
