@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript,React,Nextjs ,Tailwind CSS,TypeScript, Web2.0**
 
-- 📫 How to reach me **mehbobhussain.dev@gmail.com**
+- 📫 How to reach me **mehboobhussain.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
