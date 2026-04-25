@@ -1,6 +1,6 @@
 # 🚀 Mehboob Hussain — GitHub Profile README
 
-```md
+
 <h1 align="center">Hi 👋, I'm Mehboob Hussain</h1>
 <h3 align="center">Frontend Developer • React • Next.js • TypeScript • UI/UX</h3>
 
@@ -71,4 +71,3 @@
 <p align="center">
   💡 “Build clean. Build fast. Build with purpose.”
 </p>
-```
